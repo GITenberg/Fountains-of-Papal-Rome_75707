@@ -1,0 +1,44 @@
+_repo: Fountains-of-Papal-Rome_75707
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ruzicka, Rudolph
+    birthdate: 1883
+    deathdate: 1978
+    gutenberg_agent_id: '58111'
+    url: http://www.gutenberg.org/2009/agents/58111
+    wikipedia: https://en.wikipedia.org/wiki/Rudolph_Ruzicka
+creator:
+  author:
+    agent_name: MacVeagh, Fanny Davenport Rogers
+    aliases:
+    - MacVeagh, Mrs. Charles
+    - MacVeagh, Charles, Mrs.
+    - Veagh, Mrs. Charles Mac
+    birthdate: 1859
+    deathdate: 1948
+    gutenberg_agent_id: '58110'
+    url: http://www.gutenberg.org/2009/agents/58110
+description: ''
+gutenberg_issued: '2025-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75707'
+  lccn: '15025228'
+language: en
+pgterms:marc904: https://archive.org/details/fountainsofpapal01macv
+pgterms:marc905: 20240503040211macveagh
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fountains -- Italy -- Rome'
+- !lcc 'DG'
+- GITenberg
+title: Fountains of Papal Rome
+url: http://www.gutenberg.org/ebooks/75707
