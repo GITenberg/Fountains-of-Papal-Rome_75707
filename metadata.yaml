@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '58111'
     url: http://www.gutenberg.org/2009/agents/58111
     wikipedia: https://en.wikipedia.org/wiki/Rudolph_Ruzicka
+covers:
+- cover_type: archival
+  image_path: 75707-h/images/cover.jpg
 creator:
   author:
     agent_name: MacVeagh, Fanny Davenport Rogers
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '58110'
     url: http://www.gutenberg.org/2009/agents/58110
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75707#Fountains-of-Papal-Rome
 gutenberg_issued: '2025-03-25'
 gutenberg_type: Text
 identifiers:
